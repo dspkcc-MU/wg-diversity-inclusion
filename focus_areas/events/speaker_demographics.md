@@ -14,6 +14,8 @@ Please feel free to [contribute](https://github.com/chaoss/wg-diversity-inclusio
 
 Speakers with diverse backgrounds who represent a [variety of demographics](https://github.com/chaoss/wg-diversity-inclusion/blob/master/di_metrics.md) help an event provide different viewpoints and a broader perspective. Events with diverse speakers allow people from a variety of different backgrounds feel more included in an event when they see people with similar characteristics in a position of authority (speaking).
 
+Speaker demographics is a leading indicator for diversity. Even if the overall community is not diverse, having a diverse representation across speakers makes more people with diverse demographics feel represented and welcome to join.
+
 ## 2. Sample Objectives
 - Speakers are from diverse backgrounds.
 - Speakers are diverse when grouped by keynotes, sessions, and tracks.
