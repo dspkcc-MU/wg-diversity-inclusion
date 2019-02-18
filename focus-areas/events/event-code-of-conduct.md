@@ -8,7 +8,7 @@ Please feel free to [contribute](https://github.com/chaoss/wg-diversity-inclusio
 
 ## Question
 
-**Question:** Question: How does the Code of Conduct for events support diversity and inclusion?
+**Question: How does the Code of Conduct for events support diversity and inclusion?
 
 ## 1. Description
 A code of conduct describes rules of good behavior between event participants and what avenues are available when someone violates those expected good behaviors. An event with a code of conduct sends the signal that the organizers are willing to respond to incidences.
