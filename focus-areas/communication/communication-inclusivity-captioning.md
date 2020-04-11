@@ -13,33 +13,23 @@ Please feel free to [contribute](https://github.com/chaoss/wg-diversity-inclusio
 
 ## 1. Description
 
-_This section provides a rationale for why this question is important to diversity and inclusion._
-_Example for how to use this template: [Documentation](/focus-areas/project-and-community/documentation.md)_
+Is captioning needed for spoken communication? To cover as wide as a net as possible to our users I believe so as language barriers and comprehension must be taken into account. If we are able to provide captioning than it should be so.
 
 ## 2. Sample Objectives
 
-- _This section provides a list of reasons a community wants to assess this question_
--
+Provide a caption alternative for spoken communication
+Way to measure the effectiveness of providing a caption
+No misinterpretation in caption/translation
 
 
 ## 3. Sample Strategies
 
-- _This section provides a list of methods available for answering the question._
--
+Standard of translation/caption is as close to orgin as possible
+Feedback from users on how effective and useful they  found it to be
 
 
 ## 4. Sample Success Metrics
 _Qualitative_
 
-- _This section provides detailed instructions for how to execute above listed qualitative methods and evaluate the results_
--
-
-_Quantitative_
-
-- _This section provides detailed instructions for how to execute above listed quantitative methods and evaluate the results_
--
-
-
-## 5. Resources
-
-- _This section provides a list of resources and references_
+Provide a standar for caption
+feedback survey
